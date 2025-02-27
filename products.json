@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "just stroke the gun huzz - 15.6\" 144Hz, i7-13620H, RTX 4050, 16GB/1TB - Win 11 Gaming Notebook",
+    "title": "The Nebula PC",
     "image": "/api/placeholder/200/150",
-    "currentPrice": 1299,
-    "oldPrice": 1699,
+    "currentPrice": 400,
+    "oldPrice": 420,
     "inStock": true
   },
   {
     "id": 2,
-    "title": "kills myself (ASG) - 16\" 165Hz, 14th Gen i7, RTX 4070, 32GB/1TB - Win 11 Gaming Notebook",
+    "title": "Razer",
     "image": "/api/placeholder/200/150",
-    "currentPrice": 2332199,
-    "oldPrice": 2932199,
+    "currentPrice": 60,
+    "oldPrice": null,
     "inStock": true
   },
   {
     "id": 3,
-    "title": "Gigabyte A321321ORUS 16X (ASG) - 16\" 165Hz, 14th Gen i9, RTX 4070, 32GB/1TB - Win 11 Gaming Notebook",
+    "title": "The Nebula Pc + Razer Bundle",
     "image": "/api/placeholder/200/150",
-    "currentPrice": 283213299,
-    "oldPrice": 3432132199,
+    "currentPrice": 435,
+    "oldPrice": null,
     "inStock": true
   },
   {
