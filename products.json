@@ -25,50 +25,5 @@
     "oldPrice": null,
     "inStock": true,
     "tags": ["bundle", "pc", "desktop", "mouse", "razer", "combo", "mid-range"]
-  },
-  {
-    "id": 4,
-    "title": "femboys rule!",
-    "image": "/api/placeholder/200/150",
-    "currentPrice": 1532132199,
-    "oldPrice": null,
-    "inStock": true,
-    "tags": ["premium", "custom"]
-  },
-  {
-    "id": 5,
-    "title": "James is a qt",
-    "image": "/api/placeholder/200/150",
-    "currentPrice": 6969,
-    "oldPrice": 420,
-    "inStock": false,
-    "tags": ["premium", "limited", "custom"]
-  },
-  {
-    "id": 6,
-    "title": "MSI Modern 13213215 (B12M) - 15.6\" 12th Gen i7, 16GB/512GB - Win 11 Notebook (Black)",
-    "image": "/api/placeholder/200/150",
-    "currentPrice": 1232132199,
-    "oldPrice": null,
-    "inStock": true,
-    "tags": ["notebook", "laptop", "msi", "i7", "intel", "processor", "16gb", "ram", "512gb", "storage", "win11", "windows", "premium"]
-  },
-  {
-    "id": 7,
-    "title": "Gigabyte G6X (9MG) - 16\" 165Hz, 13th Gen i7, RTX 4050, 16GB/1TB - Win 11 Gaming Notebook",
-    "image": "/api/placeholder/200/150",
-    "currentPrice": 159321319,
-    "oldPrice": 1321321899,
-    "inStock": true,
-    "tags": ["notebook", "laptop", "gigabyte", "gaming", "i7", "intel", "rtx", "nvidia", "gpu", "16gb", "ram", "1tb", "storage", "win11", "windows", "premium"]
-  },
-  {
-    "id": 8,
-    "title": "MSI Modern 14 (F13M) - 14\" 13th Gen i5, 16GB/512GB - Win 11 Notebook (Silver)",
-    "image": "/api/placeholder/200/150",
-    "currentPrice": 1032132199,
-    "oldPrice": null,
-    "inStock": true,
-    "tags": ["notebook", "laptop", "msi", "i5", "intel", "processor", "16gb", "ram", "512gb", "storage", "win11", "windows", "premium"]
   }
 ]
